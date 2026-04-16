@@ -38,8 +38,6 @@ export PATH="$PATH:$SUMO_HOME/bin"
 
 # Step 4 — Run full experiment (auto-generates network on first run)
 bash run_sumo.sh
-
-# Note: to open the SUMO-GUI demo, run from Terminal.app or iTerm (not from Cursor's terminal)
 ```
 
 ### Both simulators
