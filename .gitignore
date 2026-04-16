@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .DS_Store
 .claude/
+CityFlow/build/
+CityFlow/CMakeFiles/
+CityFlow/*.txt
+CityFlow/*.cmake
+checkpoints/
+*_backup/
